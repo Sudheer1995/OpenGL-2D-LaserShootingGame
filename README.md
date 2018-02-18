@@ -2,7 +2,7 @@
 
 - ### Demo
 
-  ![Laser Shooting Demo](https://github.com/{user}/{repo}/demo.gif)
+  ![Laser Shooting Demo](https://github.com/sudheerachary/OpenGL-2D-LaserShootingGame/demo.gif)
 
 - ### Dependencies
 
