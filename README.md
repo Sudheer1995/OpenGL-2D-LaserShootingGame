@@ -55,3 +55,7 @@
     - **`RIGHT CTRL`** move green bucket **`RIGHT`**
     - **`LEFT ALT`** move red bucket **`LEFT`**
     - **`RIGHT ALT`** move green bucket **`RIGHT`**
+    - **`q`** game **`QUIT`**
+    
+  - **clean**
+    - removes executable for a fresh compilation `make clean`
